@@ -1,0 +1,2 @@
+# Simple-2-Hidden-Layer-Classifier
+This is a matlab function that will take in 8 inputs. data is the inputs to be feed through the network, class will contain the class of each order pair of data, K is the 1st hidden layer size, J is the 2nd hidden layer size, L is the number of outputs, rh is the hidden learning rate, ro is the output learning rate, and epoch is the number of times to run the data through the network.
